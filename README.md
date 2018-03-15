@@ -64,8 +64,8 @@ $ ./ProcSim
 Once Proc.bsv is generated, do the following:
 
 ```
-$ cp $TOP/Kami/Ext/Ocaml/Proc.bsv $TOP/Kami/Ext/BluespecFrontEnd/fpgaConnectal
-$ cd $TOP/Kami/Ext/BluespecFrontEnd/fpgaConnectal
+$ cp $TOP/Kami/Ext/Ocaml/Proc.bsv $TOP/Kami/Ext/BluespecFrontEnd/fpga-connectal
+$ cd $TOP/Kami/Ext/BluespecFrontEnd/fpga-connectal
 $ make build.vc707g2
 ```
 
